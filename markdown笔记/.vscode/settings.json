@@ -5,6 +5,7 @@
         "ENIAC",
         "EPROM",
         "MROM",
+        "SRAM",
         "VESA"
     ]
 }
